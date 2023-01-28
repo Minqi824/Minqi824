@@ -2,22 +2,13 @@
 I'm a third-year PhD candidate in Shanghai University of Finance and Economics (SUFE). At SUFE, I work with my PhD tutor [Songqiao Han](https://scholar.google.com/citations?user=C73EXPMAAAAJ&hl=en&oi=ao). I am glad to be a member of SUFE AI Lab (lead by professor [Hailiang Huang](https://scholar.google.com/citations?user=kCtylwwAAAAJ&hl=en&oi=sra)).
 Currently, **Anomaly Detection** (aka Outlier Detection) is my major research direction, and I'm also interested in **NLP** and **Quantitative Investment**, see as follows:
 
-#### Anomaly Detection
-- ADBench: Anomaly detection benchmark
-  - :page_facing_up: [Paper](https://openreview.net/forum?id=foA_SFQ9zo0)
-  - :computer: [Repo](https://github.com/Minqi824/ADBench)
-
-#### NLP
-- How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection
-  - :page_facing_up: [Paper](https://arxiv.org/pdf/2301.07597.pdf)
-  - :computer: [Repo](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
-
-#### Quantitative Investment
-- Ensemble learning for asset price predicting
-  - :page_facing_up: [Paper: part1](https://web.s.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=0424267X&AN=139043153&h=ggCvHvtJmIlD0UKxuOy5bIVMJASAG%2f4%2f4xJyGB3KmvaLYF6NH9pFNkD2pOCNlyypD5NyEs7ABzOJUQeezqKH5A%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d0424267X%26AN%3d139043153)
-  - :page_facing_up: [Paper: part2](https://www.sciencedirect.com/science/article/pii/S0378437119313093)
-- Regularized Kalman filter for asset price modeling
-  - :page_facing_up: [Paper](https://www.sciencedirect.com/science/article/pii/S1062976920301757)
+| Title | Research Direction |Conference/Journal| Paper | Code |
+|-------|--------------------|-------|-------|------|
+|ADBench: Anomaly detection benchmark|Anomaly Detection|NeurIPS 2022|[:page_facing_up:](https://openreview.net/forum?id=foA_SFQ9zo0)|[:computer:](https://github.com/Minqi824/ADBench)      |
+|How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection|NLP|Preprint|[:page_facing_up:](https://arxiv.org/pdf/2301.07597.pdf)|[:computer:](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)|
+|An Improved Stacking Framework for Predicting Stock Price Index Direction|Quantitative Investment|Economic Computation & Economic Cybernetics Studies & Research  |[:page_facing_up:](https://web.s.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=0424267X&AN=139043153&h=ggCvHvtJmIlD0UKxuOy5bIVMJASAG%2f4%2f4xJyGB3KmvaLYF6NH9pFNkD2pOCNlyypD5NyEs7ABzOJUQeezqKH5A%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d0424267X%26AN%3d139043153)|      |
+|An improved Stacking framework for stock index prediction by leveraging tree-based ensemble models and deep learning algorithms|Quantitative Investment|Physica A: Statistical Mechanics and its Applications   | [:page_facing_up:](https://www.sciencedirect.com/science/article/pii/S0378437119313093)|      |
+|An extended regularized Kalman filter based on Genetic Algorithm: Application to dynamic asset pricing models|Quantitative Investment|The Quarterly Review of Economics and Finance    |[:page_facing_up:](https://www.sciencedirect.com/science/article/pii/S1062976920301757)|      |
 
 ---
 **Quick links to know me better...**
