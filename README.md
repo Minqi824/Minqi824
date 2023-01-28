@@ -1,5 +1,5 @@
-### Glad to see you! 👋 Welcome to my (Minqi, 江敏祺 for Chinese) profile:
-I'm a third-year PhD candidate in Shanghai University of Finance and Economics (SUFE). At SUFE, I work with my PhD tutor [Songqiao Han](https://scholar.google.com/citations?user=C73EXPMAAAAJ&hl=en&oi=ao). I am glad to be a member of SUFE AI Lab (lead by professor [Hailiang Huang](https://scholar.google.com/citations?user=kCtylwwAAAAJ&hl=en&oi=sra)).
+### Glad to see you! 👋 Welcome to my (Minqi Jiang, 江敏祺 for Chinese) profile:
+I'm a third-year PhD candidate in Shanghai University of Finance and Economics (SUFE). At SUFE, I work with my PhD tutor [Songqiao Han](https://scholar.google.com/citations?user=C73EXPMAAAAJ&hl=en&oi=ao). I am glad to be a member of [SUFE AI Lab](https://mp.weixin.qq.com/s/nFlYaUn0o73iz5nLM73qBg) (lead by professor [Hailiang Huang](https://scholar.google.com/citations?user=kCtylwwAAAAJ&hl=en&oi=sra)).
 Currently, **Anomaly Detection** (aka Outlier Detection) is my major research direction, and I'm also interested in **NLP** and **Quantitative Investment**, see as follows:
 
 | Title | Research Direction |Conference/Journal| Paper | Code |
