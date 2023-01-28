@@ -14,12 +14,13 @@ Currently, **Anomaly Detection** (aka Outlier Detection) is my major research di
 **Quick links to know me better...**
 - :point_right: [Personal Website](https://minqi824.github.io/)
 - :point_right: [Google Scholar](https://scholar.google.com/citations?user=OBdS69UAAAAJ&hl=en)
+- :point_right: [LinkedIn](https://www.linkedin.com/in/minqi-jiang-7b8370186/)
 - :point_right: [知乎](https://www.zhihu.com/people/jiang-min-qi-56)
 - :point_right: [Photography website](https://link.zhihu.com/?target=http%3A//jiangphotography.mystrikingly.com/)
 
-
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minqi824)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minqi824)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Hi there 👋
 **Minqi824/Minqi824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
