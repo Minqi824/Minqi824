@@ -19,8 +19,12 @@ Currently, **Anomaly Detection** (aka Outlier Detection) is my major research di
 - :point_right: [Photography website](https://link.zhihu.com/?target=http%3A//jiangphotography.mystrikingly.com/)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minqi824)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minqi824)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minqi824)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minqi824)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p>
+	<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Minqi824&include_orgs=true&show_icons=true&hide_border=true" />
+</p>
 
 <!-- ### Hi there 👋
 **Minqi824/Minqi824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
