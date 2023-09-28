@@ -4,7 +4,7 @@ Currently, **Anomaly Detection** (aka Outlier Detection) is my major research di
 
 | Title | Research Direction |Conference/Journal| Paper | Code |
 |-------|--------------------|-------|-------|------|
-|ADGym: Design Choices for Deep Anomaly Detection|Anomaly Detection|Preprint||[:computer:]([https://github.com/Minqi824/Overlap](https://github.com/Minqi824/ADGym))      |
+|ADGym: Design Choices for Deep Anomaly Detection|Anomaly Detection|NeurIPS 2023|[:page_facing_up:](https://arxiv.org/pdf/2309.15376.pdf)|[:computer:]([https://github.com/Minqi824/Overlap](https://github.com/Minqi824/ADGym))      |
 |Anomaly Detection with Score Distribution Discrimination|Anomaly Detection|KDD 2023|[:page_facing_up:](https://dl.acm.org/doi/10.1145/3580305.3599258)|[:computer:](https://github.com/Minqi824/Overlap)      |
 |ADBench: Anomaly detection benchmark|Anomaly Detection|NeurIPS 2022|[:page_facing_up:](https://openreview.net/forum?id=foA_SFQ9zo0)|[:computer:](https://github.com/Minqi824/ADBench)      |
 |How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection|NLP|IJCAI Workshop@LLM|[:page_facing_up:](https://arxiv.org/pdf/2301.07597.pdf)|[:computer:](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)|
